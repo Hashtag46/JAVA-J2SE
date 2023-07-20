@@ -1,5 +1,5 @@
-public class oddeven {
-    public static void main(String ars[])
+Class OddEven {
+    public static void main(String[] args)
     {
         int a=Integer.parseInt(ars[0]);
         if(a%2==0)
