@@ -1,5 +1,5 @@
 Class Add {
-    public static void main(String ars[])
+    public static void main(String[] args)
     {
         int a=Integer.parseInt(ars[0]);
         int b=Integer.parseInt(ars[1]);
