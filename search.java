@@ -1,4 +1,4 @@
-public class Search {
+class Search {
     public static void main(String[] args)
     {
         int a=Integer.parseInt(ars[0]);
