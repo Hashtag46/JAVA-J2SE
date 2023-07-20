@@ -1,4 +1,4 @@
-public class add {
+Class Add {
     public static void main(String ars[])
     {
         int a=Integer.parseInt(ars[0]);
